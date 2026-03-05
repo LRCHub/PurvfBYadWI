@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "真夏のシューメイカー",
+  "base_artist": "THE PINBALLS",
+  "createdAt": "2026-03-05T14:37:13.219249Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真夏のシューメイカー",
+      "artist": "THE PINBALLS",
+      "has_synced": false,
+      "path": "select/pl_01_真夏のシューメイカー_THE_PINBALLS.txt"
+    }
+  ]
+}
